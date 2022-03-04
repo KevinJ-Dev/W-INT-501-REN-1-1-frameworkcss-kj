@@ -1,0 +1,22 @@
+{
+  "name": "w-int-501-ren-1-1-frameworkcss-kevin.jourdain",
+  "version": "1.0.0",
+  "description": "coucou",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EpitechWebAcademiePromo2023/W-INT-501-REN-1-1-frameworkcss-kevin.jourdain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EpitechWebAcademiePromo2023/W-INT-501-REN-1-1-frameworkcss-kevin.jourdain/issues"
+  },
+  "homepage": "https://github.com/EpitechWebAcademiePromo2023/W-INT-501-REN-1-1-frameworkcss-kevin.jourdain#readme",
+  "dependencies": {
+    "sass": "^1.49.0"
+  }
+}
